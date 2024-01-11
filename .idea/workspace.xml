@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d534b82-e5a9-4fee-b4f5-f4128ee4ccb4" name="Changes" comment="Adição do arquivo oper.kt">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/error.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedometro.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treinamentos-em-kotlin.iml" afterDir="false" />
+    <list default="true" id="2d534b82-e5a9-4fee-b4f5-f4128ee4ccb4" name="Changes" comment="Adicionados arquivos dos exercícios de comparação de números de tempo de tela, mensagem de alerta de login e pedômetro.">
+      <change afterPath="$PROJECT_DIR$/src/clima.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +44,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Kotlin.AdicaoKt.executor": "Run",
+    "Kotlin.ClimaKt.executor": "Run",
     "Kotlin.CompararKt.executor": "Run",
     "Kotlin.Criar_funcoesKt.executor": "Run",
     "Kotlin.ErrorKt.executor": "Run",
@@ -96,7 +91,7 @@
       <workItem from="1704940288529" duration="16000" />
       <workItem from="1704940310036" duration="20000" />
       <workItem from="1704940349596" duration="2627000" />
-      <workItem from="1704991989204" duration="4388000" />
+      <workItem from="1704991989204" duration="6597000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -114,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704941189486</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adicionados arquivos dos exercícios de comparação de números de tempo de tela, mensagem de alerta de login e pedômetro.">
+      <option name="closed" value="true" />
+      <created>1705001287312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705001287312</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +127,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Adição do arquivo oper.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adição do arquivo oper.kt" />
+    <MESSAGE value="Adicionados arquivos dos exercícios de comparação de números de tempo de tela, mensagem de alerta de login e pedômetro." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionados arquivos dos exercícios de comparação de números de tempo de tela, mensagem de alerta de login e pedômetro." />
   </component>
 </project>
