@@ -18,6 +18,11 @@ fun checar(tempoDeTelaHoje: Int, tempoDeTelaOntem: Int): Boolean {
     } //fim do if
 } //fim da função
 
+/*Código recomendado:
+fun compareTime(timeSpentToday: Int, timeSpentYesterday: Int): Boolean {
+    return timeSpentToday > timeSpentYesterday
+}*/
+
 fun main(){
     println(checar(300,250))
     println(checar(300,300))
